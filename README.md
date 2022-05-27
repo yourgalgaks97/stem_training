@@ -6,13 +6,13 @@ Installing python
 learning python
 making a simple calculator
 ## Day Three
-learning lists
+learning lists and
 lists manipulation
 ## Day Four
 learning while loops
 ## Day five
 learning while loops
-learning if statements, else, elif
+if statements, else, elif
 ## Day six
 learning tuples
 lists and sets
@@ -24,4 +24,4 @@ Editing texts
 dictionaries
 ## Day nine
 detecting errorrs
-installind Aurdino IDE
+installing Aurdino IDE
